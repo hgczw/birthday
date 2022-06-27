@@ -34,13 +34,15 @@ var config = {
           "送给Vivian": "./imgs/one.jpg",
           "我心中的唯爱": "./imgs/thh.jpg",
           "今天是你的生日": "./imgs/two.jpg",
+          "死生契阔，与子成说": "./imgs/thr.jpg",
+          "我们一生相依": "./imgs/love.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "来点颜色",
-        balloons_flying: "来点氛围",
+        bannar_coming: "氛围",
+        balloons_flying: "气球",
         cake_fadein: "蛋糕来了",
         light_candle: "点燃蜡烛",
         wish_message: "生日快乐",
