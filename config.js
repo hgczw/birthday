@@ -31,9 +31,9 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-          "送给Vivian": "./imgs/one.jpg",
+          "送给Vivian": "./imgs/hon.jpg",
           "我心中的唯爱": "./imgs/thh.jpg",
-          "今天是你的生日": "./imgs/two.jpg",
+          "今天是你的生日": "./imgs/one.jpg",
           "死生契阔，与子成说": "./imgs/thr.jpg",
           "我们一生相依": "./imgs/love.jpg",
     },
